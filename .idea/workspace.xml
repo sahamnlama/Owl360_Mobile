@@ -33,21 +33,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="349" />
+          <entry key="html" value="367" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="349" />
+          <entry key="HTML" value="367" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -63,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/stream.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="75" column="19" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
+            <state relative-caret-position="449">
+              <caret line="78" selection-start-line="78" selection-end-line="78" />
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -215,14 +219,14 @@
       <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/wrappy/package.json" />
       <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/xmlbuilder/package.json" />
       <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/xmldom/package.json" />
-      <path value="$PROJECT_DIR$/plugins/cordova-plugin-badge/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-app-event/package.json" />
       <path value="$PROJECT_DIR$/plugins/cordova-plugin-device/package.json" />
       <path value="$PROJECT_DIR$/plugins/cordova-plugin-device/tests/package.json" />
-      <path value="$PROJECT_DIR$/plugins/cordova-plugin-local-notification/package.json" />
       <path value="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/package.json" />
+      <path value="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.local-notification/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-12" />
     <option name="y" value="-12" />
     <option name="width" value="1944" />
@@ -240,6 +244,11 @@
             <path>
               <item name="Owl360_mobile" type="b2602c69:ProjectViewProjectNode" />
               <item name="Owl360_mobile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Owl360_mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Owl360_mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Owl360_mobile" type="b2602c69:ProjectViewProjectNode" />
@@ -281,12 +290,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541234895055</updated>
-      <workItem from="1541234896503" duration="8558000" />
+      <workItem from="1541234896503" duration="9746000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8558000" />
+    <option name="totallyTimeSpent" value="9746000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -319,9 +328,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -345,12 +351,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/stream.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="75" column="19" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
+        <state relative-caret-position="449">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
         </state>
       </provider>
     </entry>
