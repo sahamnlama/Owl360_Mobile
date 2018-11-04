@@ -69,7 +69,12 @@ img-src    http://www.apache.org/licenses/LICENSE-2.0
                 var img = document.getElementById("play");
                 img.src = image;
 
-            })
+                cordova.plugins.notification.local.schedule({
+                    title: 'My first notification',
+                    text: 'Thats pretty easy...',
+                    foreground: true
+                });
+            });
         });
     }
 </script>
