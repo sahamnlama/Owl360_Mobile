@@ -1,6 +1,6 @@
 {
-  "name": "Owl360_mobile",
-  "short_name": "Owl360_mobile",
+  "name": "Owl360Mobile",
+  "short_name": "Owl360Mobile",
   "description": "Description of your app from template",
   "start_url": "index.html",
   "scope": "index.html",
