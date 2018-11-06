@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b2c04e0-1d61-4756-a5d8-7962f4f81c9d" name="Default Changelist" comment="" />
+    <list default="true" id="d93bfc9d-802b-4aab-95ad-beb6b72a7366" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,84 +12,54 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="204317413">
+    <session id="-502713509">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="2" />
-          <entry key="js" value="1" />
+          <entry key="css" value="2" />
+          <entry key="html" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="2" />
-          <entry key="JavaScript" value="1" />
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="367" />
+          <entry key="html" value="953" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="367" />
+          <entry key="HTML" value="953" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="81" column="51" selection-start-line="81" selection-start-column="51" selection-end-line="81" selection-end-column="51" />
-              <folding>
-                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h2#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="17">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/stream.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="78" selection-start-line="78" selection-end-line="78" />
-              <folding>
-                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h2#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/www/button.css">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -97,136 +67,33 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>img-src</find>
-    </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/www/stream.js.html" />
+        <option value="$PROJECT_DIR$/plugins/css/button.css" />
         <option value="$PROJECT_DIR$/www/index.html" />
-        <option value="$PROJECT_DIR$/www/stream.html" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
-    <package-json value="$PROJECT_DIR$/package.json" />
-  </component>
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
-  </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
-      <path value="$PROJECT_DIR$/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/abbrev/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/accepts/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/ansi-regex/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/ansi-styles/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/ansi/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/array-flatten/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/balanced-match/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/base64-js/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/big-integer/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/body-parser/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/bplist-parser/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/brace-expansion/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/bytes/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/chalk/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/compressible/node_modules/mime-db/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/compressible/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/compression/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/concat-map/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/content-disposition/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/content-type/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cookie-signature/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cookie/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-common/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-registry-mapper/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/debug/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/depd/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/destroy/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/ee-first/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/elementtree/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/encodeurl/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/escape-html/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/escape-string-regexp/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/etag/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/express/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/finalhandler/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/forwarded/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/fresh/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/glob/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/has-ansi/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/http-errors/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/iconv-lite/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/inflight/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/inherits/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/ipaddr.js/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/is-wsl/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/media-typer/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/merge-descriptors/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/methods/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/mime-db/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/mime-types/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/mime/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/minimatch/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/ms/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/negotiator/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/nopt/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/on-finished/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/on-headers/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/once/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/opn/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/parseurl/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/path-is-absolute/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/path-to-regexp/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/plist/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/proxy-addr/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/q/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/qs/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/range-parser/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/raw-body/node_modules/depd/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/raw-body/node_modules/http-errors/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/raw-body/node_modules/setprototypeof/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/raw-body/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/safe-buffer/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/sax/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/send/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/serve-static/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/setprototypeof/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/statuses/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/strip-ansi/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/supports-color/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/type-is/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/underscore/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/unorm/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/unpipe/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/utils-merge/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/vary/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/wrappy/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/xmlbuilder/package.json" />
-      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/xmldom/package.json" />
       <path value="$PROJECT_DIR$/plugins/cordova-plugin-app-event/package.json" />
       <path value="$PROJECT_DIR$/plugins/cordova-plugin-device/package.json" />
       <path value="$PROJECT_DIR$/plugins/cordova-plugin-device/tests/package.json" />
-      <path value="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/package.json" />
-      <path value="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.local-notification/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-local-notification/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-12" />
     <option name="y" value="-12" />
     <option name="width" value="1944" />
@@ -237,7 +104,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -259,14 +125,20 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Owl360_signelling_server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../local-notofication/Push-nortification" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lakmali\Documents\Sahan\Research\Owl360_mobile\Owl360_mobile\www" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -285,30 +157,28 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3b2c04e0-1d61-4756-a5d8-7962f4f81c9d" name="Default Changelist" comment="" />
-      <created>1541234895055</created>
+      <changelist id="d93bfc9d-802b-4aab-95ad-beb6b72a7366" name="Default Changelist" comment="" />
+      <created>1541095313584</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1541234895055</updated>
-      <workItem from="1541234896503" duration="9746000" />
+      <updated>1541095313584</updated>
+      <workItem from="1541095315005" duration="4679000" />
+      <workItem from="1541215464015" duration="9218000" />
+      <workItem from="1541484510065" duration="676000" />
+      <workItem from="1541487049924" duration="692000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9746000" />
+    <option name="totallyTimeSpent" value="15265000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-8" y="-8" width="1296" height="696" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="npm" side_tool="true" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10810811" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.060365368" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -316,6 +186,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -328,44 +202,15 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/www/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="81" column="51" selection-start-line="81" selection-start-column="51" selection-end-line="81" selection-end-column="51" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/stream.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="78" selection-start-line="78" selection-end-line="78" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/www/button.css">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
