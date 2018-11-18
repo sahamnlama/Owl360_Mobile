@@ -10,7 +10,6 @@
     "author": "Apache Cordova Team",
     "license": "Apache-2.0",
     "dependencies": {
-        "cordova-android": "^7.1.2",
         "cordova-browser": "^5.0.4",
         "cordova-plugin-app-event": "^1.2.1",
         "cordova-plugin-device": "^2.0.2",
@@ -23,8 +22,7 @@
             "cordova-plugin-local-notification": {}
         },
         "platforms": [
-            "browser",
-            "android"
+            "browser"
         ]
     }
 }
