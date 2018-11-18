@@ -19,11 +19,11 @@
     <platform name="android">
         <allow-intent href="market:*" />
     </platform>
-    <preference name="android-minSdkVersion"        value="27" />
     <platform name="ios">
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
     <plugin name="cordova-plugin-local-notification" spec="^0.8.4" />
     <engine name="browser" spec="^5.0.4" />
+    <engine name="android" spec="~7.1.2" />
 </widget>
