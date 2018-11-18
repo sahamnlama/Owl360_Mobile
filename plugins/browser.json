@@ -9,17 +9,7 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.Owl360.mobile"
-    },
-    "cordova-plugin-local-notification": {
-      "PACKAGE_NAME": "com.Owl360.mobile"
     }
   },
-  "dependent_plugins": {
-    "cordova-plugin-device": {
-      "PACKAGE_NAME": "com.Owl360.mobile"
-    },
-    "cordova-plugin-app-event": {
-      "PACKAGE_NAME": "com.Owl360.mobile"
-    }
-  }
+  "dependent_plugins": {}
 }
