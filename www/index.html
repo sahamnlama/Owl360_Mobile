@@ -69,7 +69,7 @@
             <div class="row">
                 <div class="two wide column"></div>
                 <div class="twelve wide column">
-                    <button id="videoCall"  class="ui fluid huge basic olive button">
+                    <button id="videoCall" onclick="videoCall()"  class="ui fluid huge basic olive button">
                         <i class="film icon"></i>Video Call
                     </button>
                 </div>
@@ -107,6 +107,12 @@
         }
 
           function callAnothePage()
+                 {
+                    window.location = "stream.html";
+                 }
+
+        
+        function videoCall()
                  {
                     window.location = "stream.html";
                  }
