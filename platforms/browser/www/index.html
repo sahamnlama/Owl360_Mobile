@@ -48,7 +48,7 @@
             <div class="row">
                 <div class="two wide column"></div>
                 <div class="twelve wide column">
-                    <button id="streamBtn" class="ui fluid huge basic animated olive button">
+                    <button id="streamBtn" onclick="callAnothePage()" class="ui fluid huge basic animated olive button">
                         <span class="visible content">Live Stream</span>
                         <span class="hidden content"><i class="film icon"></i></span>
                     </button>
@@ -69,7 +69,7 @@
             <div class="row">
                 <div class="two wide column"></div>
                 <div class="twelve wide column">
-                    <button id="videoCall" class="ui fluid huge basic olive button">
+                    <button id="videoCall"  class="ui fluid huge basic olive button">
                         <i class="film icon"></i>Video Call
                     </button>
                 </div>
@@ -91,19 +91,26 @@
                 text: 'Thats pretty easy...',
                 foreground: true
             });*/
-            alert();
-
+            
+            /*
             $(document).ready(function() {
                 $('#streamBtn').click(function () {
+                    alert();
                    window.location = 'stream.html';
                 });
 
                 /*$('#videoCall').click(function(){
                     window.location = 'videoChat.html';
-                })*/
-            });
+                })
+            });*/
             
         }
+
+          function callAnothePage()
+                 {
+                    window.location = "stream.html";
+                 }
+        
     </script>
     </body>
 </html>
