@@ -64,7 +64,7 @@ img-src    http://www.apache.org/licenses/LICENSE-2.0
         console.log("window.open works well");
 
         $(document).ready(function() {
-            var socket = io('http://localhost:3332');
+            var socket = io('https://owl360signellingsvr.herokuapp.com');
             socket.on('stream', function(image){
                 var img = document.getElementById("play");
                 img.src = image;
