@@ -31,10 +31,10 @@
     "is_top_level": false,
     "variables": {}
   },
-  "cordova-plugin-local-notification": {
+  "cordova-plugin-inappbrowser": {
     "source": {
       "type": "registry",
-      "id": "cordova-plugin-local-notification@0.8.4"
+      "id": "cordova-plugin-inappbrowser@3.0.0"
     },
     "is_top_level": true,
     "variables": {}

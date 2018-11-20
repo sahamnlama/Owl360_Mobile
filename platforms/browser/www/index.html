@@ -48,7 +48,7 @@
             <div class="row">
                 <div class="two wide column"></div>
                 <div class="twelve wide column">
-                    <button id="streamBtn" class="ui fluid huge basic animated olive button">
+                    <button id="streamBtn" onclick="callAnothePage()" class="ui fluid huge basic animated olive button">
                         <span class="visible content">Live Stream</span>
                         <span class="hidden content"><i class="film icon"></i></span>
                     </button>
@@ -65,6 +65,16 @@
                 </div>
                 <div class="two wide column"></div>
             </div>
+
+            <div class="row">
+                <div class="two wide column"></div>
+                <div class="twelve wide column">
+                    <button id="videoCall" onclick="videoCall()"  class="ui fluid huge basic olive button">
+                        <i class="film icon"></i>Video Call
+                    </button>
+                </div>
+                <div class="two wide column"></div>
+            </div>
         </div>
     </div>
     <!-- Only needed if you want support for dropdown menus -->
@@ -76,19 +86,37 @@
         function onDeviceReady() {
             console.log("window.open works well");
 
-            cordova.plugins.notification.local.schedule({
+            /*cordova.plugins.notification.local.schedule({
                 title: 'My first notification',
                 text: 'Thats pretty easy...',
                 foreground: true
-            });
-
+            });*/
+            
+            /*
             $(document).ready(function() {
                 $('#streamBtn').click(function () {
+                    alert();
                    window.location = 'stream.html';
                 });
-            });
+
+                /*$('#videoCall').click(function(){
+                    window.location = 'videoChat.html';
+                })
+            });*/
             
         }
+
+          function callAnothePage()
+                 {
+                    window.location = "stream.html";
+                 }
+
+        
+        function videoCall()
+                 {
+                    var ref2 = cordova.InAppBrowser.open(encodeURI("https://audioapp4.herokuapp.com"), '_system', 'location=yes');
+                 }
+        
     </script>
     </body>
 </html>

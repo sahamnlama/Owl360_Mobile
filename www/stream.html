@@ -29,7 +29,7 @@ img-src    http://www.apache.org/licenses/LICENSE-2.0
             * Enable inline JS: add 'unsafe-inline' to default-src
     -->
     <!--<meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;">-->
-    <meta http-equiv="Content-Security-Policy" content="img-src *; font-src *; style-src 'self' http://* 'unsafe-inline'; script-src 'self' http://* 'unsafe-inline' 'unsafe-eval'"; />
+   
     <meta name="format-detection" content="telephone=no">
     <meta name="msapplication-tap-highlight" content="no">
     <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
@@ -58,20 +58,21 @@ img-src    http://www.apache.org/licenses/LICENSE-2.0
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script type="text/javascript" src="cordova.js"></script>
 <script src="https://webrtc.github.io/adapter/adapter-latest.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.1.1/socket.io.js"></script>
 <script>
     document.addEventListener("deviceready", onDeviceReady, false);
     function onDeviceReady() {
         console.log("window.open works well");
 
-        $(document).ready(function() {
-            var socket = io('http://localhost:3332');
+        //$(document).ready(function() {
+            var socket = io('https://owl360signellingsvr.herokuapp.com');
             socket.on('stream', function(image){
                 var img = document.getElementById("play");
                 img.src = image;
 
 
             });
-        });
+        //});
     }
 </script>
 </body>
